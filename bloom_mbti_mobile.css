@@ -1,0 +1,109 @@
+
+@media screen and (max-width: 880px) and (max-aspect-ratio: 1/1) {
+    body {
+        font-size: 14px;
+    }
+
+    .body-container {
+        aspect-ratio: 9/16;
+    }
+    
+            .intro_container {
+                background-position: 75%;
+            }
+
+                    .logo_intro {
+                        width: 100%;
+                    }
+
+                    .button_intro {
+                        width: 45%;
+                    }
+
+            .prolog_container {
+                background-position: 60%;
+            }
+
+                .button_skip {
+                    font-size: clamp(1rem, 4.0vw, 3rem);
+                }
+
+                .bg_v {
+                    background-position: 75%;
+                }
+
+                .form_prolog {
+                    height: 20%;
+
+                    font-size: clamp(0.4rem, 3.0vw, 3rem);
+                }
+
+                    .pt1 {
+                        width: 80%;
+                    }
+
+                    .fq {
+                        width: 79%;
+                        height: auto;
+                        
+                        font-size: clamp(0.4rem, 3.3vw, 2.0rem);
+                    }
+
+                        .form_question_start > p.q1-title {
+                            font-size: clamp(0.8rem, 8.0vw, 4.0rem);
+                        }
+
+                        .form_question_start > p.q1-waring {
+                            font-size: clamp(0.3rem, 3.0vw, 1.5rem);
+                        }
+
+                        .q2-number {
+                            font-size: clamp(0.8rem, 8.0vw, 4.0rem);
+                        }
+
+                        .q2-text {
+                            font-size: clamp(0.4rem, 3.3vw, 2.0rem);
+                        }
+
+                        .q2-answer {
+                            font-size: clamp(0.1rem, 2.75vw, 1.5rem);
+                        }
+
+            .result_form {
+                width: 80%;
+                height: 95%;
+
+                transition-duration: 0.5s;
+            }
+
+                .form_result_1 {
+                    height: 10%;
+                }
+
+                    .form_result_1 > p {
+                        font-size: clamp(1.0rem, 5.0vw, 4.0rem);
+                    }
+
+                    .form_result_3 > p {
+                        height: 15%;
+
+                        font-size: clamp(0.625rem, 1.9vw, 3.0rem);
+                    }
+
+                        .form_result_3 > p.mbti_t1 {
+                            margin-bottom: 2.5%;
+
+                            font-size: clamp(1.0rem, 3.5vw, 3.0rem);
+                        }
+
+                    .char-list {
+                        width: 75%;
+                    }
+                    
+    .footer-container {
+        width: 97%;
+        height: 5.5%;
+
+        font-size: clamp(5px, 1.75vw, 2rem);
+    }
+}
