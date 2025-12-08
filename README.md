@@ -1,12 +1,19 @@
 
- # <center> 티바트 MBTI </center>
+ # <p align=center> 티바트 MBTI </p>
 
-<center><b> Genshin Impact : Teyvat MBTI(Myers-Briggs Type Indicator) Test </b></center>
-<center><b> 원신 : 티바트 MBTI 테스트 </b></center>
+<p align=center><b> Genshin Impact : Teyvat MBTI(Myers-Briggs Type Indicator) Test </b></p>
+
+<p align=center><b> 원신 : 티바트 MBTI 테스트 </b></p>
+
 <br>
-<center> MBTI 테스트를 원신 테마에 맞게 만든 웹페이지 입니다 </center>
-<center> 누구나 자유롭게 테스트 해볼 수 있으며, 자신의 MBTI가 무엇인지</center>
-<center> 어떤 캐릭터와 같은 MBTI 인지 확인해보세요 </center>
+
+<p align=center> MBTI 테스트를 원신 테마에 맞게 만든 웹페이지 입니다 </p>
+
+<p align=center> 누구나 자유롭게 테스트 해볼 수 있으며, 자신의 MBTI가 무엇인지</p>
+
+<p align=center> 어떤 캐릭터와 같은 MBTI 인지 확인해보세요 </p>
+
+
 <br>
 
 ```
@@ -55,3 +62,4 @@
 ## 도움을 주신 분들 (Support for Project)
 
 - 트바 (ChocoB)
+
