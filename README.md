@@ -1,17 +1,35 @@
+<p align='center'> <img src="https://github.com/user-attachments/assets/975e9e27-3351-4d35-82db-ea2b541e3145" width=500> </p>
 
- # <p align=center> 티바트 MBTI </p>
+# <p align='center'> 티바트 MBTI </p>
 
-<p align=center><b> Genshin Impact : Teyvat MBTI(Myers-Briggs Type Indicator) Test </b></p>
+<p align='center'><b> Genshin Impact : Teyvat MBTI(Myers-Briggs Type Indicator) Test </b></p>
 
-<p align=center><b> 원신 : 티바트 MBTI 테스트 </b></p>
+<p align='center'><b> 원신 : 티바트 MBTI 테스트 </b></p>
 
 <br>
 
-<p align=center> MBTI 테스트를 원신 테마에 맞게 만든 웹페이지 입니다 </p>
+<p align='center'> MBTI 테스트를 원신 테마에 맞게 만든 웹페이지 입니다 </p>
 
-<p align=center> 누구나 자유롭게 테스트 해볼 수 있으며, 자신의 MBTI가 무엇인지</p>
+<p align='center'> 누구나 자유롭게 테스트 해볼 수 있으며, 자신의 MBTI가 무엇인지</p>
 
-<p align=center> 어떤 캐릭터와 같은 MBTI 인지 확인해보세요 </p>
+<p align='center'> 어떤 캐릭터와 같은 MBTI 인지 확인해보세요 </p>
+
+<br>
+
+<p align='center'> <img src="https://github.com/user-attachments/assets/dd2cc873-4032-467e-8564-4facf96df502" width=900> </p>
+
+<p align='center'>
+  <img src="https://github.com/user-attachments/assets/9e0439bd-289e-4d75-a581-4fcdf868ca86" width='30%'>
+  <img src="https://github.com/user-attachments/assets/5addb453-9989-4188-b02c-79681cc583de" width='30%'>
+  <img src="https://github.com/user-attachments/assets/7e192cde-6206-49c2-9b2b-4b7d40e5ec52" width='30%'>
+</p>
+
+
+
+
+
+<p align='center'><a href="https://www.mbti.twontree.com/"> <img src="https://github.com/user-attachments/assets/38e1ddbb-93f0-48b0-aacb-52643eb3afb9" height='80'> </a></p>
+
 
 
 <br>
@@ -62,4 +80,5 @@
 ## 도움을 주신 분들 (Support for Project)
 
 - 트바 (ChocoB)
+
 
