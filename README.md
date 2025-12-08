@@ -38,7 +38,7 @@
 <br>
 
 ## 홈페이지 (Homepage)
-- <a href='https://www.twontree.com'> 투앤트리(Twontree) </a>
+- <a href='https://www.twontree.com' target="_blank"> 투앤트리(Twontree) </a>
 
 <br>
 <br>
@@ -53,4 +53,5 @@
 <br>
 
 ## 도움을 주신 분들 (Support for Project)
+
 - 트바 (ChocoB)
