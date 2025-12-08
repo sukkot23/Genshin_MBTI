@@ -35,6 +35,22 @@
 <br>
 
 ```
+  ㆍ총 40가지 질문에 응답하여 당신의 MBTI를 확인해보세요
+
+  ㆍ1.0 ~ 5.8까지 원신 캐릭터를 만나 볼 수 있습니다
+    * 콜라보 캐릭터, 노드크라이 캐릭터는 현재 추가되지 않았습니다
+
+
+
+   * 중립 선택지만 선택할 경우, 검사 결과가 올바르게 나타나지 않을 수 있습니다
+
+   * 다른 MBTI 결과임에도 불구하고, 동일한 일러스트가 나올 수 있습니다
+       예시) 라이덴 쇼군 : ISTJ / 라이덴 에이 : INTJ
+
+   * 버그 및 문의사항은 해당 프로젝트의 이슈(Issues) 또는 게시된 게시물의 댓글로 문의바랍니다
+```
+
+```
   현재 웹페이지 버전 : 1.0.0
   지원 언어 : 한국어 (ko-kr)
  
@@ -63,7 +79,8 @@
 <br>
 
 ## 홈페이지 (Homepage)
-- <a href='https://www.twontree.com' target="_blank"> 투앤트리(Twontree) </a>
+- <a href='https://www.twontree.com'> 투앤트리(Twontree) </a>
+- <a href='https://www.mbti.twontree.com/'> 티바트 MBTI (Teyvat MBTI) </a>
 
 <br>
 <br>
@@ -80,5 +97,6 @@
 ## 도움을 주신 분들 (Support for Project)
 
 - 트바 (ChocoB)
+
 
 
