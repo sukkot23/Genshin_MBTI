@@ -36,7 +36,7 @@
 
 ```
   ㆍ총 40가지 질문에 응답하여 당신의 MBTI를 확인해보세요
-
+  ㆍ[공유하기] 를 통해서 MBTI 카드를 저장할 수 있습니다
   ㆍ1.0 ~ 5.8까지 원신 캐릭터를 만나 볼 수 있습니다
     * 콜라보 캐릭터, 노드크라이 캐릭터는 현재 추가되지 않았습니다
 
@@ -81,7 +81,7 @@
 
 ## 홈페이지 (Homepage)
 - <a href='https://www.twontree.com'> 투앤트리(Twontree) </a>
-- <a href='https://www.mbti.twontree.com/'> 티바트 MBTI (Teyvat MBTI) </a>
+- <a href='https://www.twontree.com/project/%EC%9B%90%EC%8B%A0/%ED%8B%B0%EB%B0%94%ED%8A%B8-mbti'> 티바트 MBTI (Teyvat MBTI) </a>
 
 <br>
 <br>
@@ -98,6 +98,7 @@
 ## 도움을 주신 분들 (Support for Project)
 
 - 트바 (ChocoB)
+
 
 
 
