@@ -158,8 +158,8 @@ body {
                 width: 100%;
                 height: 100%;
 
-                align-content: center;
-                justify-items: center;
+                align-items: center;
+                justify-content: center;
             }
 
                 .logo_intro {
@@ -178,7 +178,7 @@ body {
                 .button_intro {
                     margin-top: -1%;
 
-                    width: 20%;
+                    width: 25%;
                     aspect-ratio: 16/5;
 
                     background: no-repeat url(images/button/button_1-1.webp);
