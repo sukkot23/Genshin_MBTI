@@ -24,30 +24,24 @@
   <img src="https://github.com/user-attachments/assets/7e192cde-6206-49c2-9b2b-4b7d40e5ec52" width='30%'>
 </p>
 
-
-
-
-
 <p align='center'><a href="https://www.mbti.twontree.com/"> <img src="https://github.com/user-attachments/assets/38e1ddbb-93f0-48b0-aacb-52643eb3afb9" height='80'> </a></p>
-
-
 
 <br>
 
 ```
   ㆍ총 40가지 질문에 응답하여 당신의 MBTI를 확인해보세요
+
   ㆍ[공유하기] 를 통해서 MBTI 카드를 저장할 수 있습니다
+
   ㆍ1.0 ~ 5.8까지 원신 캐릭터를 만나 볼 수 있습니다
-    * 콜라보 캐릭터, 노드크라이 캐릭터는 현재 추가되지 않았습니다
+     * 콜라보 캐릭터, 노드크라이 캐릭터는 현재 추가되지 않았습니다
 
+  ㆍ 중립 선택지만 선택할 경우, 검사 결과가 올바르게 나타나지 않을 수 있습니다
 
+  ㆍ 다른 MBTI 결과임에도 불구하고, 동일한 일러스트가 나올 수 있습니다
+      * 예시) 라이덴 쇼군 : ISTJ / 라이덴 에이 : INTJ
 
-   * 중립 선택지만 선택할 경우, 검사 결과가 올바르게 나타나지 않을 수 있습니다
-
-   * 다른 MBTI 결과임에도 불구하고, 동일한 일러스트가 나올 수 있습니다
-       예시) 라이덴 쇼군 : ISTJ / 라이덴 에이 : INTJ
-
-   * 버그 제보, 개선 사항 등 문의는 해당 프로젝트의 이슈(Issues) 또는 게시된 게시물의 댓글로 문의바랍니다
+  ㆍ 버그 제보, 개선 사항 등 문의는 아래 버그 제보 및 개선사항에 응답해주세요
 ```
 
 ```
@@ -72,17 +66,21 @@
 
 <br>
 
-## 업데이트 내역
+## 업데이트 내역 (Update History)
 
-- 1.0.0 (2025-12-09) : 최초 웹페이지 업로드
-- 1.0.1 (2025-12-09) : Css 정렬 문제 해결
+- 1.0.0 (2025-12-09) : 최초 웹페이지 업로드 (First Webpage Upload)
+- 1.0.1 (2025-12-09) : Css 정렬 문제 해결 (fixed css align error)
+
+<br>
+
+## 버그 제보 및 개선사항 (Bug Report & Feedback)
+- <a href='https://forms.gle/bdA6AMy2oNsBLKv47'> [버그 및 피드백 제보] </a>
 
 <br>
 <br>
 
 ## 홈페이지 (Homepage)
 - <a href='https://www.twontree.com'> 투앤트리(Twontree) </a>
-- <a href='https://www.twontree.com/project/%EC%9B%90%EC%8B%A0/%ED%8B%B0%EB%B0%94%ED%8A%B8-mbti'> 티바트 MBTI (Teyvat MBTI) </a>
 
 <br>
 <br>
@@ -99,6 +97,7 @@
 ## 도움을 주신 분들 (Support for Project)
 
 - 트바 (ChocoB)
+
 
 
 
