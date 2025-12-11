@@ -29,6 +29,9 @@
 <br>
 
 ```
+  ㆍPC에서는 전체화면(F11)으로 보시는걸 권장드립니다
+
+
   ㆍ총 40가지 질문에 응답하여 당신의 MBTI를 확인해보세요
 
   ㆍ[공유하기] 를 통해서 MBTI 카드를 저장할 수 있습니다
@@ -70,6 +73,7 @@
 
 - 1.0.0 (2025-12-09) : 최초 웹페이지 업로드 (First Webpage Upload)
 - 1.0.1 (2025-12-09) : Css 정렬 문제 해결 (fixed css align error)
+- 1.0.2 (2025-12-11) : 타이틀 페이지에 "버그리포트", "만족도조사" 링크 추가 (Add link "BugReport", "Satisfaction Survey" for Title page)
 
 <br>
 
